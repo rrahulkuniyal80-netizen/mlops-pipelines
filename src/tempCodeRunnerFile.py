@@ -1,0 +1,1 @@
+def load_data(data_url: str) -> pd.DataFrame:

@@ -1,0 +1,4 @@
+Building Pipeline:
+ Add src folder along with all components
+ Add data, models, reports directories to .gitignore file
+ Now git add, commit, push
